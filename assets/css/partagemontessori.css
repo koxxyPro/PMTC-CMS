@@ -396,7 +396,7 @@ header .navbar {
 }
 
 .Modern-Slider .item-3 .img-fill {
-	background-image: url(../images/header\ 3.jpg);
+	background-image: url(../images/slide_03.jpg);
 }
 
 .Modern-Slider .NextArrow{
@@ -452,7 +452,7 @@ ul.slick-dots {
 
 .Modern-Slider .item h6 {
   margin-bottom: 15px;
-  font-size: 22px;
+  font-size: 20px;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 1px;
@@ -462,8 +462,8 @@ ul.slick-dots {
 
 .Modern-Slider .item h4 {
   margin-bottom: 30px;
-  text-transform: uppercase;
-  font-size: 44px;
+ /* text-transform: uppercase;*/
+  font-size: 30px;
   font-weight: 700;
   letter-spacing: 2.5px;
   color:#FFF;
