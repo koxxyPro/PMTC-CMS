@@ -560,7 +560,7 @@ ul.slick-dots {
 }
 
 .service-item .down-content {
-	background-color: #f7f7f7;
+	/*background-color: #f7f7f7;*/
 	padding: 30px;
 }
 
@@ -575,7 +575,11 @@ ul.slick-dots {
 	margin-bottom: 20px;
 }
 
-
+.service-item:hover {
+	box-shadow: 4px 5px 10px #a4c639;
+	cursor: pointer;
+	transition: 0.5s ease-in-out;
+}
 
 /* Fun Facts */
 
@@ -735,7 +739,11 @@ ul.slick-dots {
 	margin: 25px auto 0px auto;
 }
 
-
+.testimonial-item:hover {
+	box-shadow: 4px 5px 10px #a4c639;
+	cursor: pointer;
+	transition: .5s ease-in-out;
+}
 
 
 /* Call Back Style */
@@ -881,7 +889,7 @@ ul.slick-dots {
 }
 
 .partners .partner-item img {
-	max-width: 156px;
+	max-width: 150px;
 	margin: auto;
 }
 
